@@ -15,6 +15,7 @@ Welcome to the Perceptron Lab! In this exercise, you’ll explore the **Perceptr
 - Visualize the learning process and decision boundary.
 - Experiment with the librarian’s learning speed (`eta`) and practice rounds (`n_iter`).
 - Answer questions to understand how the Perceptron learns and predicts.
+- Push your code to Github and submit the link 
 
 ## Prerequisites
 - Basic Python knowledge (lists, loops, functions).
